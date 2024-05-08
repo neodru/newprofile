@@ -1,12 +1,28 @@
-# newprofile
-## About Me
+## 👋 About Me
 
-**U.S. Army Combat Veteran** with a passion for technology and education. Experienced in **web development**, **digital transformation**, and **cloud solutions**. Seeking to leverage my skills to make a positive impact in the IT industry.
+**U.S. Army Combat Veteran** transitioning into a focused IT career.  
 
-**Key Areas of Interest:**
+* 💪  Extensive experience in **higher education** as an instructor, program manager, and associate dean.
+* 🚀 Passionate about **web development**, **digital transformation**, and **cloud solutions**. 
+* 💻 Proven success implementing SaaS solutions and cybersecurity strategies for small businesses. 
+* ✨ Driven by a mission to inspire others through technology.
 
-* **Web Development:** HTML5, CSS3, JavaScript, PHP, MySQL
-* **Cloud Technologies:** AWS, Azure (or specify your focus)
-* **Digital Transformation Consulting**
+### 🛠️ Skills
 
-Connect with me on [LinkedIn](https://www.linkedin.com/in/your-profile-link) 
+**Languages:** 
+* HTML5 💻
+* CSS3 ✨
+* JavaScript 💡
+* PHP 
+* SQL 🗄️
+
+**Frameworks & Tools:**
+* Bootstrap 🎨
+* WordPress 🌐
+* Git/GitHub 🐙
+* [Cloud Provider e.g., AWS] ☁️
+
+**Other:**
+* Instructional Design 🎓
+* Project Management 🎯
+* Digital Marketing 🚀
